@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Bai_thi.picture"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bai_thi"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <StackPanel.Background>
+            <ImageBrush ImageSource="https://i.9mobi.vn/cf/images/2015/03/nkk/nhung-hinh-anh-dep-4.jpg" />
+        </StackPanel.Background>
+    </StackPanel>
+</Page>
+
